@@ -3,6 +3,14 @@
 2. cd pdf-generator-RA
 3. npm i & npm run
 
+# Tech Stack
+1. React+TypeScript
+2. Tailwind Css
+3. Webpack, React router
+4. react-to-pdf
+5. react-chartjs-2
+6. axios
+
 ## Available Scripts
 
 In the project directory, you can run:
